@@ -1,1 +1,1 @@
-link live server:
+link live server: http://30476.hosts1.ma-cloud.nl/displaytype/museum.html
