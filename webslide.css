@@ -1,0 +1,20 @@
+html, body{ margin: 0; padding: 0;}
+
+body {
+       background-color: rgb(255, 0, 0);
+}
+
+nav {
+       background-color: black;
+       height: 30px;
+}
+
+nav a {
+       display: block;
+       color: #ccc;
+       text-decoration: none;
+       width: 200px;
+       padding: 5px 10px;
+       float: left;
+       text-align: center;
+}
